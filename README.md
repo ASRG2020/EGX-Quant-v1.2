@@ -1,0 +1,1 @@
+# EGX-Quant-v1.2
